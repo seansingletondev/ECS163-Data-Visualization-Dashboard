@@ -94,3 +94,5 @@ This project is a data storytelling website built with React and D3.js that aims
 | **Shaoke Qi**     | Implemented the first version of the Radar Chart and built the Streamgraph visualization.
 | **Megan Liu**     | Implemented the Type Distribution Bar Chart and contributed to the final UI layout and integration. |
 
+
+[![Watch the video](https://img.youtube.com/vi/UF3_60bOItY/0.jpg)](https://www.youtube.com/watch?v=UF3_60bOItY)
